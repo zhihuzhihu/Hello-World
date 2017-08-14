@@ -2,4 +2,4 @@ hello world
 git is a free software
 show me the path
 git has a mutable index called stage
-git tracks change
+git tracks change of files
