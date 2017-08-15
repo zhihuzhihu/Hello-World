@@ -8,3 +8,4 @@ git tracks change of files
 creating a new branch is quick
 
 >>>>>>> test_branch
+creating a new branch is quick and simple
