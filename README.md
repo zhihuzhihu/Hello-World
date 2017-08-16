@@ -3,3 +3,4 @@ This is a test repository named as Hello-World
 
 Now these words are printed to test the commit changes.
 hello
+test the merge way fast forward
